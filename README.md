@@ -38,8 +38,6 @@ Edge cases in this approach can be ignored with state mismatch only occuring wor
 
 ## Improvements
 
-Many come to mind:
-
 Removal of polling logic and full interrupt / low power implementation
 
 Track change of user history so only calculate on motion AND user history change to reduce number of calculations
