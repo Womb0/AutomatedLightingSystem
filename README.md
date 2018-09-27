@@ -59,3 +59,5 @@ Custom PCB design with smaller microcontroller
 Potential desync over time, RTC implementation, RTC also offers additional control
 
 External (SD)storage for larger user history
+
+Cut power to motion sensor when in manual mode instead of ignoring interrupt
